@@ -1,0 +1,24 @@
+<svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Learn Tilawah">
+  <!-- Mark: mihrab arch framing an open book + rising star -->
+  <g>
+    <!-- arch -->
+    <path d="M32 6 C18 6 8 18 8 34 V56 a2 2 0 0 0 2 2 H54 a2 2 0 0 0 2-2 V34 C56 18 46 6 32 6 Z"
+          fill="none" stroke="#C8A24B" stroke-width="2.2"/>
+    <!-- inner arch hairline -->
+    <path d="M32 12 C21 12 13 21 13 34 V52 H51 V34 C51 21 43 12 32 12 Z"
+          fill="#0C5C45" opacity="0.06"/>
+    <!-- open book -->
+    <path d="M32 30 C28 26 21 25 16 27 V47 C21 45 28 46 32 50 C36 46 43 45 48 47 V27 C43 25 36 26 32 30 Z"
+          fill="#0C5C45"/>
+    <path d="M32 30 V50" stroke="#FBF7EE" stroke-width="1.6"/>
+    <path d="M20 32 C24 31 28 31.5 30.5 33 M20 37 C24 36 28 36.5 30.5 38" stroke="#FBF7EE" stroke-width="1" opacity="0.7" fill="none"/>
+    <path d="M44 32 C40 31 36 31.5 33.5 33 M44 37 C40 36 36 36.5 33.5 38" stroke="#FBF7EE" stroke-width="1" opacity="0.7" fill="none"/>
+    <!-- rising 8-point star -->
+    <g transform="translate(32 21)">
+      <path d="M0 -7 L1.6 -1.6 L7 0 L1.6 1.6 L0 7 L-1.6 1.6 L-7 0 L-1.6 -1.6 Z" fill="#C8A24B"/>
+    </g>
+  </g>
+  <!-- Wordmark -->
+  <text x="68" y="30" font-family="'Cormorant Garamond', Georgia, serif" font-size="25" font-weight="700" fill="#0C5C45" letter-spacing="0.3">Learn</text>
+  <text x="68" y="52" font-family="'Cormorant Garamond', Georgia, serif" font-size="25" font-weight="700" fill="#C8A24B" letter-spacing="0.3">Tilawah</text>
+</svg>
